@@ -1,7 +1,7 @@
 ---
 ---
 
-# Welcometo Raul's GitHub Pages!
+# Welcome to Raul's GitHub Pages!
 
 ## Raul Arrafi Delfarra
 
